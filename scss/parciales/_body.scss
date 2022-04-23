@@ -1,0 +1,53 @@
+.body{
+    background-image: url(/image/fondo.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fond{
+    background-image: url(/image/fondo2.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card{
+    margin: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background: rgba(0, 0, 0, 0.384);
+    box-shadow: 0 8px 32px 0 rgba(255, 252, 252, 0.308);
+    backdrop-filter: blur( 16.5px );
+    -webkit-backdrop-filter: blur( 16.5px );
+    border-radius: 10px;
+    border: 10px solid rgba(253, 253, 253, 0.534);
+    color: white;
+    padding: 2%;
+}
+
+.txt-mod{
+    color: white;
+    letter-spacing: 2px;
+    font-size:1.7rem;
+}
+.txt-cos{
+    color: rgb(196, 21, 21);
+    font-size: 3rem;
+    padding: 100px;
+}
+
+.card-title{
+  padding-bottom: 30px;
+  font-size: 3rem;
+  color: rgb(100, 172, 253);
+
+}
+
+.card-text{
+  font-size: 1.5rem;
+}
+.card-txt{
+  font-size: 1.7rem;
+  color: rgb(128, 120, 207);
+}
